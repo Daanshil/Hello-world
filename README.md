@@ -9,4 +9,4 @@ Hello Sugar Labs
 
 Hi ,my name is Daanshil.
 I am from Mauritius, a small island in the indian ocean.  
-This is my first task for this organisation and i hop to be doing even more tasks
+This is my first task for this organisation and i hope to be doing even more tasks
